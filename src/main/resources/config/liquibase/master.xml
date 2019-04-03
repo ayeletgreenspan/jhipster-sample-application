@@ -6,6 +6,7 @@
 
     <include file="config/liquibase/changelog/00000000000000_initial_schema.xml" relativeToChangelogFile="false"/>
 
+
     <include file="config/liquibase/changelog/20190403181518_added_entity_Region.xml" relativeToChangelogFile="false"/>
     <include file="config/liquibase/changelog/20190403181519_added_entity_Country.xml" relativeToChangelogFile="false"/>
     <include file="config/liquibase/changelog/20190403181520_added_entity_Location.xml" relativeToChangelogFile="false"/>

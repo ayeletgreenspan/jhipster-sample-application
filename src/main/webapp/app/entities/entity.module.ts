@@ -5,7 +5,18 @@ import { RouterModule } from '@angular/router';
     imports: [
         RouterModule.forChild([
             {
-                path: 'region',
+                path: 'blog',
+                loadChildren: './blog/blog.module#JhipsterSampleApplicationBlogModule'
+            },
+            {
+                path: 'entry',
+                loadChildren: './entry/entry.module#JhipsterSampleApplicationEntryModule'
+            },
+            {
+                path: 'tag',
+                loadChildren: './tag/tag.module#JhipsterSampleApplicationTagModule'
+
+              path: 'region',
                 loadChildren: './region/region.module#JhipsterSampleApplicationRegionModule'
             },
             {

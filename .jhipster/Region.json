@@ -7,7 +7,9 @@
         }
     ],
     "relationships": [],
+
     "changelogDate": "20190403181518",
+
     "entityTableName": "region",
     "dto": "no",
     "pagination": "no",

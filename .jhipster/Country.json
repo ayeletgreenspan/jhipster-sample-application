@@ -16,7 +16,9 @@
             "ownerSide": true
         }
     ],
+
     "changelogDate": "20190403181519",
+
     "entityTableName": "country",
     "dto": "no",
     "pagination": "no",

@@ -41,7 +41,9 @@
             "ownerSide": true
         }
     ],
+
     "changelogDate": "20190403181525",
+
     "entityTableName": "job_history",
     "dto": "no",
     "pagination": "infinite-scroll",

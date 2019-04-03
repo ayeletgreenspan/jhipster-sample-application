@@ -26,7 +26,9 @@
             "relationshipName": "employee"
         }
     ],
-    "changelogDate": "20190403183236",
+
+    "changelogDate": "20190403181521",
+
     "entityTableName": "department",
     "dto": "no",
     "pagination": "no",

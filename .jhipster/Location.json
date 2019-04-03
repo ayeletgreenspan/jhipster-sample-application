@@ -28,7 +28,9 @@
             "ownerSide": true
         }
     ],
-    "changelogDate": "20190403183235",
+
+    "changelogDate": "20190403181520",
+
     "javadoc": "not an ignored comment",
     "entityTableName": "location",
     "dto": "no",

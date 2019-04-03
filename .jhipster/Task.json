@@ -20,7 +20,9 @@
             "ownerSide": false
         }
     ],
-    "changelogDate": "20190403183237",
+
+    "changelogDate": "20190403181522",
+
     "javadoc": "Task entity.\n@author The JHipster team.",
     "entityTableName": "task",
     "dto": "no",

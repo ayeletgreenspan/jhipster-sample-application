@@ -52,7 +52,9 @@
             "otherEntityField": "id"
         }
     ],
-    "changelogDate": "20190403183238",
+
+    "changelogDate": "20190403181523",
+
     "javadoc": "The Employee entity.",
     "entityTableName": "employee",
     "dto": "no",
